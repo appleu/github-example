@@ -1,2 +1,2 @@
-#markdown file test#
-test my file.md
+# markdown file test#
+## test my file.md
